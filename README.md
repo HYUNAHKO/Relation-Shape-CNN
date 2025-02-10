@@ -8,6 +8,16 @@ __Relation-Shape Convolutional Neural Network for Point Cloud Analysis__ [[arXiv
 <br>
 [__CVPR 2019 Oral & Best paper finalist__](http://cvpr2019.thecvf.com/) &nbsp;&nbsp;&nbsp; __Project Page__: [https://yochengliu.github.io/Relation-Shape-CNN/](https://yochengliu.github.io/Relation-Shape-CNN/)
 
+## Relation-Shape-CNN (Modified Version)
+This is a modified version of [Relation-Shape-CNN](https://github.com/Yochengliu/Relation-Shape-CNN) with bug fixes and compatibility updates.
+
+### Changes from the original version:
+- Fixed compatibility with CUDA 12.1
+- Updated deprecated PyTorch functions
+- Resolved dataset loading issues
+
+Original repository: [Yochengliu/Relation-Shape-CNN](https://github.com/Yochengliu/Relation-Shape-CNN)
+
 ## Citation
 
 If our paper is helpful for your research, please consider citing:   
